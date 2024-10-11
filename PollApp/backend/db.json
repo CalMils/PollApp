@@ -42,18 +42,15 @@
       "options": [
         {
           "title": "Jon",
-          "votes": 9,
-          "percentage": 100
+          "votes": 10
         },
         {
           "title": "Silva",
-          "votes": 1,
-          "percentage": 12.5
+          "votes": 1
         },
         {
           "title": "Kabib",
-          "votes": 4,
-          "percentage": 11.11111111111111
+          "votes": 4
         },
         {
           "title": "Hasbulla",
@@ -682,6 +679,11 @@
       "optionTitle": "Manchester United",
       "pollTitle": "Who will win the premier league",
       "voteTime": "2024-10-11T13:57:18.366Z"
+    },
+    {
+      "optionTitle": "Jon",
+      "pollTitle": "Who is UFC P4P #1?",
+      "voteTime": "2024-10-11T15:14:38.050Z"
     }
   ]
 }
