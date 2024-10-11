@@ -2,7 +2,7 @@
 
     - Using cmd or a terminal in your code editor cd to the PollApp root file.
 
-    - Then first cd to the folder named "backend" and run the command "npm install" and then after that has finished run "npm start". This should start up and return the message "Backend is running on http://localhost:4000".
+    - Then first cd to the folder named "backend" and run the command "npm install" (may need "npm install force") and then after that has finished run "npm start". This should start up and return the message "Backend is running on http://localhost:4000".
 
     - Next cd back to the root and then into the "frontend" folder and run the command "npm install" and then after that has finished run "npm start" again. This should start up and return the message  teling you it is running on   "http://localhost:3000" and usually opens a browser to that url automatically.
 
