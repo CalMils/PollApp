@@ -16,7 +16,7 @@ const Polls = ({activePoll}) => {
         } else {
         setPolls(pollData)
         }
-    }, [pollData])
+    }, [pollData, activePoll])
 
     return(
         <>
