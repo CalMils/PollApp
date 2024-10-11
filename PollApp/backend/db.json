@@ -1,0 +1,687 @@
+{
+  "polls": [
+    {
+      "title": "Who will win the premier league?",
+      "active": false,
+      "options": [
+        {
+          "title": "Manchester United",
+          "votes": 84
+        },
+        {
+          "title": "Liverpool",
+          "votes": 28
+        },
+        {
+          "title": "Arsenal",
+          "votes": 30
+        }
+      ]
+    },
+    {
+      "title": "Who will get relegated?",
+      "active": false,
+      "options": [
+        {
+          "title": "Southampton",
+          "votes": 26
+        },
+        {
+          "title": "Everton",
+          "votes": 19
+        },
+        {
+          "title": "City for being naughty",
+          "votes": 28
+        }
+      ]
+    },
+    {
+      "title": "Who is UFC P4P #1?",
+      "active": true,
+      "options": [
+        {
+          "title": "Jon",
+          "votes": 9,
+          "percentage": 100
+        },
+        {
+          "title": "Silva",
+          "votes": 1,
+          "percentage": 12.5
+        },
+        {
+          "title": "Kabib",
+          "votes": 4,
+          "percentage": 11.11111111111111
+        },
+        {
+          "title": "Hasbulla",
+          "votes": 5
+        }
+      ]
+    }
+  ],
+  "votes": [
+    {
+      "optionTitle": "City for being naughty",
+      "pollTitle": "Who will get relegated?",
+      "voteTime": "2024-10-08T18:13:00.207Z"
+    },
+    {
+      "optionTitle": "City for being naughty",
+      "pollTitle": "Who will get relegated?",
+      "voteTime": "2024-10-08T18:13:00.211Z"
+    },
+    {
+      "optionTitle": "Everton",
+      "pollTitle": "Who will get relegated?",
+      "voteTime": "2024-10-08T18:13:00.212Z"
+    },
+    {
+      "optionTitle": "Manchester United",
+      "pollTitle": "Who will win the premier league?",
+      "voteTime": "2024-10-08T18:13:45.683Z"
+    },
+    {
+      "optionTitle": "Southampton",
+      "pollTitle": "Who will get relegated?",
+      "voteTime": "2024-10-08T18:13:47.798Z"
+    },
+    {
+      "optionTitle": "Manchester United",
+      "pollTitle": "Who will win the premier league?",
+      "voteTime": "2024-10-08T18:21:11.260Z"
+    },
+    {
+      "optionTitle": "Manchester United",
+      "pollTitle": "Who will win the premier league?",
+      "voteTime": "2024-10-08T18:24:22.759Z"
+    },
+    {
+      "optionTitle": "Manchester United",
+      "pollTitle": "Who will win the premier league?",
+      "voteTime": "2024-10-08T18:24:24.402Z"
+    },
+    {
+      "optionTitle": "Manchester United",
+      "pollTitle": "Who will win the premier league?",
+      "voteTime": "2024-10-08T18:26:44.010Z"
+    },
+    {
+      "optionTitle": "Liverpool",
+      "pollTitle": "Who will win the premier league?",
+      "voteTime": "2024-10-08T18:26:45.659Z"
+    },
+    {
+      "optionTitle": "Manchester United",
+      "pollTitle": "Who will win the premier league?",
+      "voteTime": "2024-10-08T18:26:49.276Z"
+    },
+    {
+      "optionTitle": "Manchester United",
+      "pollTitle": "Who will win the premier league?",
+      "voteTime": "2024-10-08T18:30:12.149Z"
+    },
+    {
+      "optionTitle": "Manchester United",
+      "pollTitle": "Who will win the premier league?",
+      "voteTime": "2024-10-08T18:30:17.733Z"
+    },
+    {
+      "optionTitle": "Manchester United",
+      "pollTitle": "Who will win the premier league?",
+      "voteTime": "2024-10-08T18:30:25.195Z"
+    },
+    {
+      "optionTitle": "Liverpool",
+      "pollTitle": "Who will win the premier league?",
+      "voteTime": "2024-10-08T18:30:45.294Z"
+    },
+    {
+      "optionTitle": "Manchester United",
+      "pollTitle": "Who will win the premier league?",
+      "voteTime": "2024-10-08T18:31:33.226Z"
+    },
+    {
+      "optionTitle": "Manchester United",
+      "pollTitle": "Who will win the premier league?",
+      "voteTime": "2024-10-08T18:31:33.517Z"
+    },
+    {
+      "optionTitle": "Manchester United",
+      "pollTitle": "Who will win the premier league?",
+      "voteTime": "2024-10-08T18:31:40.038Z"
+    },
+    {
+      "optionTitle": "Liverpool",
+      "pollTitle": "Who will win the premier league?",
+      "voteTime": "2024-10-08T18:31:42.948Z"
+    },
+    {
+      "optionTitle": "Manchester United",
+      "pollTitle": "Who will win the premier league?",
+      "voteTime": "2024-10-08T18:32:09.147Z"
+    },
+    {
+      "optionTitle": "Manchester United",
+      "pollTitle": "Who will win the premier league?",
+      "voteTime": "2024-10-08T18:36:29.808Z"
+    },
+    {
+      "optionTitle": "Liverpool",
+      "pollTitle": "Who will win the premier league?",
+      "voteTime": "2024-10-08T18:36:31.111Z"
+    },
+    {
+      "optionTitle": "Arsenal",
+      "pollTitle": "Who will win the premier league?",
+      "voteTime": "2024-10-08T18:36:31.652Z"
+    },
+    {
+      "optionTitle": "Liverpool",
+      "pollTitle": "Who will win the premier league?",
+      "voteTime": "2024-10-08T18:52:03.338Z"
+    },
+    {
+      "optionTitle": "Arsenal",
+      "pollTitle": "Who will win the premier league?",
+      "voteTime": "2024-10-08T18:52:04.204Z"
+    },
+    {
+      "optionTitle": "Liverpool",
+      "pollTitle": "Who will win the premier league?",
+      "voteTime": "2024-10-08T18:52:04.831Z"
+    },
+    {
+      "optionTitle": "Liverpool",
+      "pollTitle": "Who will win the premier league?",
+      "voteTime": "2024-10-11T10:19:03.065Z"
+    },
+    {
+      "optionTitle": "Liverpool",
+      "pollTitle": "Who will win the premier league?",
+      "voteTime": "2024-10-11T10:19:08.710Z"
+    },
+    {
+      "optionTitle": "Liverpool",
+      "pollTitle": "Who will win the premier league?",
+      "voteTime": "2024-10-11T10:19:56.616Z"
+    },
+    {
+      "optionTitle": "Manchester United",
+      "pollTitle": "Who will win the premier league?",
+      "voteTime": "2024-10-11T10:21:45.292Z"
+    },
+    {
+      "optionTitle": "Arsenal",
+      "pollTitle": "Who will win the premier league?",
+      "voteTime": "2024-10-11T10:22:14.244Z"
+    },
+    {
+      "optionTitle": "Manchester United",
+      "pollTitle": "Who will win the premier league?",
+      "voteTime": "2024-10-11T10:22:56.213Z"
+    },
+    {
+      "optionTitle": "Manchester United",
+      "pollTitle": "Who will win the premier league?",
+      "voteTime": "2024-10-11T10:27:23.394Z"
+    },
+    {
+      "optionTitle": "Manchester United",
+      "pollTitle": "Who will win the premier league?",
+      "voteTime": "2024-10-11T10:35:22.846Z"
+    },
+    {
+      "optionTitle": "Liverpool",
+      "pollTitle": "Who will win the premier league?",
+      "voteTime": "2024-10-11T10:35:24.424Z"
+    },
+    {
+      "optionTitle": "Manchester United",
+      "pollTitle": "Who will win the premier league?",
+      "voteTime": "2024-10-11T10:35:35.985Z"
+    },
+    {
+      "optionTitle": "Manchester United",
+      "pollTitle": "Who will win the premier league?",
+      "voteTime": "2024-10-11T10:43:57.135Z"
+    },
+    {
+      "optionTitle": "Manchester United",
+      "pollTitle": "Who will win the premier league?",
+      "voteTime": "2024-10-11T10:44:03.929Z"
+    },
+    {
+      "optionTitle": "Manchester United",
+      "pollTitle": "Who will win the premier league?",
+      "voteTime": "2024-10-11T10:44:04.639Z"
+    },
+    {
+      "optionTitle": "Manchester United",
+      "pollTitle": "Who will win the premier league?",
+      "voteTime": "2024-10-11T10:44:28.860Z"
+    },
+    {
+      "optionTitle": "Manchester United",
+      "pollTitle": "Who will win the premier league?",
+      "voteTime": "2024-10-11T10:45:08.161Z"
+    },
+    {
+      "optionTitle": "Manchester United",
+      "pollTitle": "Who will win the premier league?",
+      "voteTime": "2024-10-11T10:45:20.975Z"
+    },
+    {
+      "optionTitle": "Manchester United",
+      "pollTitle": "Who will win the premier league?",
+      "voteTime": "2024-10-11T10:45:49.079Z"
+    },
+    {
+      "optionTitle": "Manchester United",
+      "pollTitle": "Who will win the premier league?",
+      "voteTime": "2024-10-11T10:50:19.107Z"
+    },
+    {
+      "optionTitle": "Arsenal",
+      "pollTitle": "Who will win the premier league?",
+      "voteTime": "2024-10-11T10:50:49.600Z"
+    },
+    {
+      "optionTitle": "Liverpool",
+      "pollTitle": "Who will win the premier league?",
+      "voteTime": "2024-10-11T10:50:54.204Z"
+    },
+    {
+      "optionTitle": "Manchester United",
+      "pollTitle": "Who will win the premier league?",
+      "voteTime": "2024-10-11T10:51:15.356Z"
+    },
+    {
+      "optionTitle": "Manchester United",
+      "pollTitle": "Who will win the premier league?",
+      "voteTime": "2024-10-11T10:51:26.302Z"
+    },
+    {
+      "optionTitle": "Manchester United",
+      "pollTitle": "Who will win the premier league?",
+      "voteTime": "2024-10-11T10:51:38.143Z"
+    },
+    {
+      "optionTitle": "Manchester United",
+      "pollTitle": "Who will win the premier league?",
+      "voteTime": "2024-10-11T10:53:18.640Z"
+    },
+    {
+      "optionTitle": "Liverpool",
+      "pollTitle": "Who will win the premier league?",
+      "voteTime": "2024-10-11T10:53:19.683Z"
+    },
+    {
+      "optionTitle": "Manchester United",
+      "pollTitle": "Who will win the premier league?",
+      "voteTime": "2024-10-11T10:54:32.337Z"
+    },
+    {
+      "optionTitle": "Manchester United",
+      "pollTitle": "Who will win the premier league?",
+      "voteTime": "2024-10-11T10:54:35.763Z"
+    },
+    {
+      "optionTitle": "Manchester United",
+      "pollTitle": "Who will win the premier league?",
+      "voteTime": "2024-10-11T10:57:21.121Z"
+    },
+    {
+      "optionTitle": "Liverpool",
+      "pollTitle": "Who will win the premier league?",
+      "voteTime": "2024-10-11T10:57:22.120Z"
+    },
+    {
+      "optionTitle": "Arsenal",
+      "pollTitle": "Who will win the premier league?",
+      "voteTime": "2024-10-11T10:57:22.690Z"
+    },
+    {
+      "optionTitle": "Manchester United",
+      "pollTitle": "Who will win the premier league?",
+      "voteTime": "2024-10-11T10:58:44.823Z"
+    },
+    {
+      "optionTitle": "Manchester United",
+      "pollTitle": "Who will win the premier league?",
+      "voteTime": "2024-10-11T10:59:45.330Z"
+    },
+    {
+      "optionTitle": "Liverpool",
+      "pollTitle": "Who will win the premier league?",
+      "voteTime": "2024-10-11T10:59:46.627Z"
+    },
+    {
+      "optionTitle": "Arsenal",
+      "pollTitle": "Who will win the premier league?",
+      "voteTime": "2024-10-11T10:59:46.973Z"
+    },
+    {
+      "optionTitle": "Manchester United",
+      "pollTitle": "Who will win the premier league?",
+      "voteTime": "2024-10-11T10:59:55.520Z"
+    },
+    {
+      "optionTitle": "Liverpool",
+      "pollTitle": "Who will win the premier league?",
+      "voteTime": "2024-10-11T10:59:56.416Z"
+    },
+    {
+      "optionTitle": "Manchester United",
+      "pollTitle": "Who will win the premier league?",
+      "voteTime": "2024-10-11T11:00:20.752Z"
+    },
+    {
+      "optionTitle": "Liverpool",
+      "pollTitle": "Who will win the premier league?",
+      "voteTime": "2024-10-11T11:00:21.709Z"
+    },
+    {
+      "optionTitle": "Arsenal",
+      "pollTitle": "Who will win the premier league?",
+      "voteTime": "2024-10-11T11:00:22.251Z"
+    },
+    {
+      "optionTitle": "Everton",
+      "pollTitle": "Who will get relegated?",
+      "voteTime": "2024-10-11T11:00:26.960Z"
+    },
+    {
+      "optionTitle": "Manchester United",
+      "pollTitle": "Who will win the premier league?",
+      "voteTime": "2024-10-11T11:02:03.204Z"
+    },
+    {
+      "optionTitle": "Liverpool",
+      "pollTitle": "Who will win the premier league?",
+      "voteTime": "2024-10-11T11:02:04.631Z"
+    },
+    {
+      "optionTitle": "Arsenal",
+      "pollTitle": "Who will win the premier league?",
+      "voteTime": "2024-10-11T11:02:05.081Z"
+    },
+    {
+      "optionTitle": "City for being naughty",
+      "pollTitle": "Who will get relegated?",
+      "voteTime": "2024-10-11T11:02:24.078Z"
+    },
+    {
+      "optionTitle": "City for being naughty",
+      "pollTitle": "Who will get relegated?",
+      "voteTime": "2024-10-11T11:02:24.489Z"
+    },
+    {
+      "optionTitle": "City for being naughty",
+      "pollTitle": "Who will get relegated?",
+      "voteTime": "2024-10-11T11:02:24.900Z"
+    },
+    {
+      "optionTitle": "Manchester United",
+      "pollTitle": "Who will win the premier league?",
+      "voteTime": "2024-10-11T11:03:24.312Z"
+    },
+    {
+      "optionTitle": "Liverpool",
+      "pollTitle": "Who will win the premier league?",
+      "voteTime": "2024-10-11T11:03:24.857Z"
+    },
+    {
+      "optionTitle": "City for being naughty",
+      "pollTitle": "Who will get relegated?",
+      "voteTime": "2024-10-11T11:03:35.985Z"
+    },
+    {
+      "optionTitle": "Manchester United",
+      "pollTitle": "Who will win the premier league?",
+      "voteTime": "2024-10-11T11:07:05.445Z"
+    },
+    {
+      "optionTitle": "Manchester United",
+      "pollTitle": "Who will win the premier league?",
+      "voteTime": "2024-10-11T11:14:26.404Z"
+    },
+    {
+      "optionTitle": "Manchester United",
+      "pollTitle": "Who will win the premier league?",
+      "voteTime": "2024-10-11T11:14:47.869Z"
+    },
+    {
+      "optionTitle": "Manchester United",
+      "pollTitle": "Who will win the premier league?",
+      "voteTime": "2024-10-11T11:19:20.517Z"
+    },
+    {
+      "optionTitle": "Manchester United",
+      "pollTitle": "Who will win the premier league?",
+      "voteTime": "2024-10-11T11:25:02.764Z"
+    },
+    {
+      "optionTitle": "Southampton",
+      "pollTitle": "Who will get relegated?",
+      "voteTime": "2024-10-11T11:25:04.321Z"
+    },
+    {
+      "optionTitle": "Manchester United",
+      "pollTitle": "Who will win the premier league?",
+      "voteTime": "2024-10-11T11:25:43.523Z"
+    },
+    {
+      "optionTitle": "Southampton",
+      "pollTitle": "Who will get relegated?",
+      "voteTime": "2024-10-11T11:25:46.044Z"
+    },
+    {
+      "optionTitle": "City for being naughty",
+      "pollTitle": "Who will get relegated?",
+      "voteTime": "2024-10-11T11:27:00.825Z"
+    },
+    {
+      "optionTitle": "Arsenal",
+      "pollTitle": "Who will win the premier league?",
+      "voteTime": "2024-10-11T11:27:04.461Z"
+    },
+    {
+      "optionTitle": "City for being naughty",
+      "pollTitle": "Who will get relegated?",
+      "voteTime": "2024-10-11T11:27:21.850Z"
+    },
+    {
+      "optionTitle": "City for being naughty",
+      "pollTitle": "Who will get relegated?",
+      "voteTime": "2024-10-11T11:28:18.188Z"
+    },
+    {
+      "optionTitle": "Arsenal",
+      "pollTitle": "Who will win the premier league?",
+      "voteTime": "2024-10-11T11:29:00.579Z"
+    },
+    {
+      "optionTitle": "Arsenal",
+      "pollTitle": "Who will win the premier league?",
+      "voteTime": "2024-10-11T11:29:03.567Z"
+    },
+    {
+      "optionTitle": "Arsenal",
+      "pollTitle": "Who will win the premier league?",
+      "voteTime": "2024-10-11T11:29:05.390Z"
+    },
+    {
+      "optionTitle": "Arsenal",
+      "pollTitle": "Who will win the premier league?",
+      "voteTime": "2024-10-11T11:29:07.400Z"
+    },
+    {
+      "optionTitle": "Arsenal",
+      "pollTitle": "Who will win the premier league?",
+      "voteTime": "2024-10-11T11:29:09.652Z"
+    },
+    {
+      "optionTitle": "Arsenal",
+      "pollTitle": "Who will win the premier league?",
+      "voteTime": "2024-10-11T11:29:11.803Z"
+    },
+    {
+      "optionTitle": "Arsenal",
+      "pollTitle": "Who will win the premier league?",
+      "voteTime": "2024-10-11T11:29:13.314Z"
+    },
+    {
+      "optionTitle": "Arsenal",
+      "pollTitle": "Who will win the premier league?",
+      "voteTime": "2024-10-11T11:29:15.057Z"
+    },
+    {
+      "optionTitle": "Arsenal",
+      "pollTitle": "Who will win the premier league?",
+      "voteTime": "2024-10-11T11:29:17.255Z"
+    },
+    {
+      "optionTitle": "Everton",
+      "pollTitle": "Who will get relegated?",
+      "voteTime": "2024-10-11T11:29:19.998Z"
+    },
+    {
+      "optionTitle": "City for being naughty",
+      "pollTitle": "Who will get relegated?",
+      "voteTime": "2024-10-11T11:29:23.710Z"
+    },
+    {
+      "optionTitle": "City for being naughty",
+      "pollTitle": "Who will get relegated?",
+      "voteTime": "2024-10-11T11:29:25.767Z"
+    },
+    {
+      "optionTitle": "City for being naughty",
+      "pollTitle": "Who will get relegated?",
+      "voteTime": "2024-10-11T11:29:28.816Z"
+    },
+    {
+      "optionTitle": "Jon",
+      "pollTitle": "Who is UFC P4P #1?",
+      "voteTime": "2024-10-11T11:30:37.146Z"
+    },
+    {
+      "optionTitle": "Manchester United",
+      "pollTitle": "Who will win the premier league",
+      "voteTime": "2024-10-11T12:21:46.384Z"
+    },
+    {
+      "optionTitle": "Manchester United",
+      "pollTitle": "Who will win the premier league",
+      "voteTime": "2024-10-11T12:22:22.817Z"
+    },
+    {
+      "optionTitle": "Manchester United",
+      "pollTitle": "Who will win the premier league",
+      "voteTime": "2024-10-11T12:35:33.112Z"
+    },
+    {
+      "optionTitle": "Jon",
+      "pollTitle": "Who is UFC P4P #1",
+      "voteTime": "2024-10-11T12:42:40.351Z"
+    },
+    {
+      "optionTitle": "Hasbulla",
+      "pollTitle": "Who is UFC P4P #1",
+      "voteTime": "2024-10-11T12:42:51.468Z"
+    },
+    {
+      "optionTitle": "Hasbulla",
+      "pollTitle": "Who is UFC P4P #1",
+      "voteTime": "2024-10-11T12:43:52.155Z"
+    },
+    {
+      "optionTitle": "Hasbulla",
+      "pollTitle": "Who is UFC P4P #1",
+      "voteTime": "2024-10-11T12:49:15.520Z"
+    },
+    {
+      "optionTitle": "Jon",
+      "pollTitle": "Who is UFC P4P #1",
+      "voteTime": "2024-10-11T12:49:26.621Z"
+    },
+    {
+      "optionTitle": "Jon",
+      "pollTitle": "Who is UFC P4P #1",
+      "voteTime": "2024-10-11T12:51:39.651Z"
+    },
+    {
+      "optionTitle": "Silva",
+      "pollTitle": "Who is UFC P4P #1",
+      "voteTime": "2024-10-11T12:52:20.938Z"
+    },
+    {
+      "optionTitle": "Kabib",
+      "pollTitle": "Who is UFC P4P #1",
+      "voteTime": "2024-10-11T12:53:40.817Z"
+    },
+    {
+      "optionTitle": "Jon",
+      "pollTitle": "Who is UFC P4P #1",
+      "voteTime": "2024-10-11T13:24:28.101Z"
+    },
+    {
+      "optionTitle": "Jon",
+      "pollTitle": "Who is UFC P4P #1",
+      "voteTime": "2024-10-11T13:26:09.188Z"
+    },
+    {
+      "optionTitle": "Jon",
+      "pollTitle": "Who is UFC P4P #1",
+      "voteTime": "2024-10-11T13:27:36.547Z"
+    },
+    {
+      "optionTitle": "Hasbulla",
+      "pollTitle": "Who is UFC P4P #1",
+      "voteTime": "2024-10-11T13:28:26.822Z"
+    },
+    {
+      "optionTitle": "Kabib",
+      "pollTitle": "Who is UFC P4P #1",
+      "voteTime": "2024-10-11T13:30:33.067Z"
+    },
+    {
+      "optionTitle": "Kabib",
+      "pollTitle": "Who is UFC P4P #1",
+      "voteTime": "2024-10-11T13:32:52.032Z"
+    },
+    {
+      "optionTitle": "Jon",
+      "pollTitle": "Who is UFC P4P #1",
+      "voteTime": "2024-10-11T13:33:06.292Z"
+    },
+    {
+      "optionTitle": "Jon",
+      "pollTitle": "Who is UFC P4P #1",
+      "voteTime": "2024-10-11T13:33:22.448Z"
+    },
+    {
+      "optionTitle": "Kabib",
+      "pollTitle": "Who is UFC P4P #1",
+      "voteTime": "2024-10-11T13:33:46.713Z"
+    },
+    {
+      "optionTitle": "Hasbulla",
+      "pollTitle": "Who is UFC P4P #1",
+      "voteTime": "2024-10-11T13:33:55.721Z"
+    },
+    {
+      "optionTitle": "Manchester United",
+      "pollTitle": "Who will win the premier league",
+      "voteTime": "2024-10-11T13:50:46.948Z"
+    },
+    {
+      "optionTitle": "Manchester United",
+      "pollTitle": "Who will win the premier league",
+      "voteTime": "2024-10-11T13:57:18.366Z"
+    }
+  ]
+}

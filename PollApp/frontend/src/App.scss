@@ -1,0 +1,45 @@
+.info-cards{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 3%;
+}
+
+.info-card{
+  margin: 10%;
+  width: 25rem;
+}
+
+.info-header {
+  color: #111;
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 900;
+  letter-spacing: -1px;
+  line-height: 1;
+  text-align: center;
+  font-size: 70%;
+  text-transform: uppercase;
+  text-wrap: none;
+}
+
+.info-text {
+  color: darkgrey;
+  font-family: "Helvetica Neue", Helvetica, sans-serif;
+  line-height: 24px;
+  margin: 0 0 24px;
+  text-align: justify;
+  text-justify: inter-word;
+  font-size: 80%;
+}
+
+.banner{
+  object-fit: contain;
+  width: 50%;
+  height: 90%;
+}
+
+@media(max-width: 425px) {
+  .info-card{
+    width: 19rem;
+  }
+}
